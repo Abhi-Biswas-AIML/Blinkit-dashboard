@@ -85,7 +85,7 @@ Category Insights: Fruit, Snack, and Household items dominate the sales landscap
 Operational Planning: Supports decisions on expanding medium- or high-size outlets based on performance.
 
 📸 Screenshots / Demo
-🔍 Main Dashboard View
-
+🔍 Main Dashboard View:
+https://github.com/Abhi-Biswas-AIML/Blinkit-dashboard/blob/main/Screenshot%202025-06-23%20105929.png
 This view highlights core KPIs, breakdown by fat content, outlet establishment trend, and sales segmentation by outlet attributes.
 
